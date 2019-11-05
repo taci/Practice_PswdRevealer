@@ -1,0 +1,49 @@
+.link-footer {
+    color: black;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.link-footer:hover {
+    color: brown;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: rgb(138, 221, 217);
+    border: 1px solid rgb(138, 221, 217);
+}
+
+.footer-copyright {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.icon {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.icon:hover {
+    opacity: 0.7;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+}
+
+.fa-linkedin-in {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-envelope {
+    background: #d44638;
+    color: white;
+}
