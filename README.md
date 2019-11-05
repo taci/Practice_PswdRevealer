@@ -1,4 +1,8 @@
-# Challenge of the week:
+# See the result: https://taci.github.io/Practice_PswdRevealer/
+
+
+
+# Challenge of the week F.W.W.D:
 
 ![alt text](/passwordDesign.jpeg "PasswordRevealer")
 
