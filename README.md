@@ -1,7 +1,3 @@
-# See the result: https://taci.github.io/Practice_PswdRevealer/
-
-
-
 # Challenge of the week F.W.W.D:
 
 ![alt text](/passwordDesign.jpeg "PasswordRevealer")
@@ -23,3 +19,12 @@ The end result should remain exactly the same as the image, shape, color, spaces
 Requirements: implement using javascript and class.
 
 BEST OF LUCK!
+
+
+### Acknowledgments
+* [WomenWebDev](https://github.com/womenwebdev)
+
+
+### See the result: 
+https://taci.github.io/Practice_PswdRevealer/
+
